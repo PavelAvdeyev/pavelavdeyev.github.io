@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Software"
+    url: /software/
+
+  # - title: "JetBrains@GWU"
+  #  url: /jetbrains-GWU/    
+             
+  - title: "CV"
+    url: /cv/
+    

@@ -30,7 +30,7 @@ Thesis: *Reconstruction of Phylogenetic Trees under Genome Rearrangements, Gene 
 2015 -- present  
 **Graduate Research Assistant**, [Computational Biology Institute](https://cbi.gwu.edu), Milken Institute School of Public Health, The George Washington University, DC, USA. 
 
-2019 
+2019  
 **Bioinformatics Intern**, Clinical Genomics Research Department, Illumina Inc., San Diego, CA, USA.  
 Advisors: Egor Dolzhenko and Michael Eberle
 

@@ -8,7 +8,7 @@ classes: wide
 
 Check out [Google Scholar profile]({{ site.author.googlescholar }}) for citation statistics and more.
 
-\* -- co-first authorship, \*\* -- co-second authorship
+\* -- co-first authorship, \*\* -- co-second authorship  
 
 A. Zamyatin\*, **P. Avdeyev\***, J. Liang, A. Sharma, C. Chen, V. Lukyanchikova, N. Alexeev, Z. Tu, M. A. Alekseyev, I. V. Sharakhov. ''Chromosome-level genome assemblies of the malaria vectors Anopheles coluzzii and Anopheles arabiensis'', 2020. *(submitted)* 
 [bioRxiv](https://doi.org/10.1101/2020.09.29.318477)

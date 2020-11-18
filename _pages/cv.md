@@ -49,6 +49,6 @@ Advisor: [Prof. Max A. Alekseyev](https://home.gwu.edu/~maxal/)
 **Intern**, Department of Client Support, [OpenWay Group](https://www.openwaygroup.com/), Saint-Petersburg, Russia. 
 
 ## Selected Awards
-2020, *[Taylor Graduate Mathematics Prize](https://en.wikipedia.org/wiki/The_Taylor_Prize_in_Mathematics)*, The George Washington University.
+2020, *[Taylor Graduate Mathematics Prize](https://en.wikipedia.org/wiki/The_Taylor_Prize_in_Mathematics)*, The George Washington University.  
 2018, *VSTC Research Scholarship*, The George Washington University.  
 2018, *Marvin Green Prize*, Department of Mathematics, The George Washington University.

@@ -9,17 +9,17 @@ author_profile: true
 Download [Curricilum Vitae in PDF (long version)](https://www.dropbox.com/s/zgc30iy719nclls/cv_avdeyev.pdf?dl=0) and [Curricilum Vitae in PDF (short version)](https://www.dropbox.com/s/t49xv27c3b5vvmb/short_cv_avdeyev.pdf?dl=0)
 
 ## Experience
-2022 --- 
+2022 -- current   
 **Postdoctoral Fellow**, [Zhou Lab](https://zhoulab.io/), Lyda Hill Department of Bioinformatics, UT Southewestern Medical Center, TX, USA.
 
-2020 -- 2021 
+2020 -- 2021  
 **Predoctoral Visiting Fellow**, [Genome Informatics Section](https://genomeinformatics.github.io/), National Human Genome Research Institute, National Institution of Health, MA, USA.
 
 2019  
 **Bioinformatics Intern**, Clinical Genomics Research Department, Illumina Inc., CA, USA.  
 Advisors: Egor Dolzhenko and Michael Eberle
 
-2015 -- 2020 
+2015 -- 2020  
 **Graduate Research Assistant**, [Computational Biology Institute](https://cbi.gwu.edu), Milken Institute School of Public Health, The George Washington University, DC, USA. 
 
 2014  
@@ -35,9 +35,9 @@ Advisors: Egor Dolzhenko and Michael Eberle
 **Software Engineer Intern**, Department of Client Support, [OpenWay Group](https://www.openwaygroup.com/), Saint-Petersburg, Russia. 
 
 ## Education 
-2021
+2021  
 **Ph.D.** in Mathematics, [Department of Mathematics](https://math.columbian.gwu.edu/) [The George Washington University](https://www.gwu.edu/), Washington DC, USA.  
-Thesis: *[Mathematical Models of Ancestral Genome Reconstruction](https://www.proquest.com/openview/fc955c90d019e7fee608b5820836f23a/1?pq-origsite=gscholar&cbl=18750&diss=y)*
+Thesis: *[Mathematical Models of Ancestral Genome Reconstruction](https://www.proquest.com/openview/fc955c90d019e7fee608b5820836f23a/1?pq-origsite=gscholar&cbl=18750&diss=y)*  
 Advisor: [*Max A. Alekseyev*](https://home.gwu.edu/~maxal/)
 {: .text-justify}
 

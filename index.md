@@ -16,6 +16,6 @@ Computational Biology / Bioinformatics, Comparative Genomics, Graph Theory, Comb
 
 ### Brief Biography:
 * **Ph.D.** in Mathematics, [The George Washington University](https://www.gwu.edu/), Washington DC, USA, 2021 
-* **M.S.** *(summa cum laude)* in Applied Mathematics and Physics, [St. Petersburg Academic University of Russian Academy of Sciences](http://mit.spbau.ru/en/about), Saint-Petersburg, Russia, 2015
+* **M.S.** *(summa cum laude)* in Applied Mathematics and Physics, St. Petersburg Academic University of Russian Academy of Sciences, Saint-Petersburg, Russia, 2015
 * **B.S.** *(summa cum laude)* in Applied Mathematics and Computer Science, [ITMO University](http://en.ifmo.ru/en/), Saint-Petersburg, Russia, 2013
 

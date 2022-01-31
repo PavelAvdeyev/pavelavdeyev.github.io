@@ -36,19 +36,19 @@ Advisors: Egor Dolzhenko and Michael Eberle
 
 ## Education 
 2021  
-**Ph.D.** in Mathematics, [Department of Mathematics](https://math.columbian.gwu.edu/) [The George Washington University](https://www.gwu.edu/), Washington DC, USA.  
+**Ph.D.** in Mathematics, [The George Washington University](https://www.gwu.edu/), Washington DC, USA.  
 Thesis: *[Mathematical Models of Ancestral Genome Reconstruction](https://www.proquest.com/openview/fc955c90d019e7fee608b5820836f23a/1?pq-origsite=gscholar&cbl=18750&diss=y)*  
 Advisor: [*Max A. Alekseyev*](https://home.gwu.edu/~maxal/)
 {: .text-justify}
 
 2015  
-**M.S.** in Applied Mathematics and Physics *(summa cum laude)*, Department of Mathematics and Information Technology, [St. Petersburg Academic University of Russian Academy of Sciences](http://mit.spbau.ru/en/about), Saint-Petersburg, Russia.  
+**M.S.** in Applied Mathematics and Physics *(summa cum laude)*, St. Petersburg Academic University of Russian Academy of Sciences, Saint-Petersburg, Russia.  
 Theis: *Reconstruction of Ancestral Genomes in Presence of Gene Gain and Loss.*  
 Advisor: [*Max A. Alekseyev*](https://home.gwu.edu/~maxal/)
 {: .text-justify}
 
 2013  
-**B.S.** in Applied Mathematics and Computer Science *(summa cum laude)*, Department of Computer Technologies, [ITMO University](http://en.ifmo.ru/en/), Saint-Petersburg, Russia.  
+**B.S.** in Applied Mathematics and Computer Science *(summa cum laude)*, [ITMO University](http://en.ifmo.ru/en/), Saint-Petersburg, Russia.  
 Thesis: *Reconstruction of Phylogenetic Trees under Genome Rearrangements, Gene Insertion and Deletion Events.*
 {: .text-justify}
 

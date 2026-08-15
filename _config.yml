@@ -11,18 +11,17 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# The draft now uses local layouts and CSS instead of a remote theme.
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Pavel Avdeyev"
 title_separator          : "-"
 name                     : "Pavel Avdeyev"
-description              : "Avdeyev's personal web-page"
-url                      : "https://avdeevpavel.github.io" # https://# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Pavel Avdeyev builds software and algorithms for biological data."
+url                      : "https://pavelavdeyev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : avdeevpavel/avdeevpavel.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : PavelAvdeyev/pavelavdeyev.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -119,7 +118,7 @@ author:
       url: # "https://www.facebook.com/pavel.v.avdeyev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AvdeevPavel"
+      url: "https://github.com/PavelAvdeyev"
 
 # Site Footer
 footer:
@@ -210,19 +209,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+plugins: []
 
 # mimic GitHub Pages with --safe
 whitelist:

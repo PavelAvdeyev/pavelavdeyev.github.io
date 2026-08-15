@@ -1,33 +1,46 @@
 ---
-layout: single
-author_profile: true
+layout: page
 title: "Publications"
 permalink: /publications/
-classes: wide
+eyebrow: Academic archive
+intro: A chronological archive of publications from my academic work. Selected highlights and software are presented together on the Projects page.
 ---
 
 Check out [Google Scholar profile]({{ site.author.googlescholar }}) for up-to-date list.
 
 \* -- co-first authorship, \*\* -- co-second authorship  
 
-J. P. Bernot\*, **P. Avdeyev\***, A. Zamyatin, N. Dreyer, N. Alexeev, M. Pérez-Losada; K. A. Crandall. ''Chromosome-level genome assembly, annotation, and phylogenomics of the gooseneck barnacle Pollicipes pollicipes''. *GigaScience* (2022), *(accepted)*
+**P. Avdeyev**, C. Shi, Y. Tan, K. Dudnyk, and J. Zhou. ''Dirichlet Diffusion Score Model for Biological Sequence Generation''. *Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023, 1276–1301.
+[Paper](https://proceedings.mlr.press/v202/avdeyev23a.html)
 {: .text-justify}
 
-S. Aganezov, S. M. Yan, D. C. Soto, M. Kirsche, S. Zarate, **P. Avdeyev**, D. J. Taylor, *et. al.* ''A complete reference genome improves analysis of human genetic variation''. 
-[bioRxiv](https://doi.org/10.1101/2021.07.12.452063)
+**P. Avdeyev** and J. Zhou. ''Computational Approaches for Understanding Sequence Variation Effects on the 3D Genome Architecture''. *Annual Review of Biomedical Data Science* 5 (2022), 183–204.
+[DOI](https://doi.org/10.1146/annurev-biodatasci-102521-012018)
 {: .text-justify}
 
-S. Aganezov\*, **P. Avdeyev\***, N. Alexeev, Y. Rong, and M. A. Alekseyev. ''Orienting Ordered Scaffolds: Complexity and Algorithms'', 2022. *(submitted)*
-[arXiv](https://arxiv.org/abs/1911.11190)
+S. Aganezov, S. M. Yan, D. C. Soto, M. Kirsche, S. Zarate, **P. Avdeyev**, D. J. Taylor, *et al.* ''A Complete Reference Genome Improves Analysis of Human Genetic Variation''. *Science* 376:6588 (2022), eabl3533.
+[DOI](https://doi.org/10.1126/science.abl3533)
 {: .text-justify}
 
-A. Zamyatin\*, **P. Avdeyev\***, J. Liang, A. Sharma, C. Chen, V. Lukyanchikova, N. Alexeev, Z. Tu, M. A. Alekseyev, I. V. Sharakhov. ''Chromosome-level genome assemblies of the malaria vectors Anopheles coluzzii and Anopheles arabiensis''.  *GigaScience* 10:3 (2021). 
-[![doi](../assets/images/icons16/doi-icon.png)](https://doi.org/10.1093/gigascience/giab017)
+S. Aganezov\*, **P. Avdeyev\***, N. Alexeev, Y. Rong, and M. A. Alekseyev. ''Orienting Ordered Scaffolds: Complexity and Algorithms''. *SN Computer Science* 3 (2022).
+[DOI](https://doi.org/10.1007/s42979-022-01198-7)
+{: .text-justify}
+
+J. P. Bernot\*, **P. Avdeyev\***, A. Zamyatin, N. Dreyer, N. Alexeev, M. Pérez-Losada, and K. A. Crandall. ''Chromosome-level Genome Assembly, Annotation, and Phylogenomics of the Gooseneck Barnacle *Pollicipes pollicipes*''. *GigaScience* 11 (2022), giac021.
+[DOI](https://doi.org/10.1093/gigascience/giac021)
+{: .text-justify}
+
+K. Walker, D. Kalra, R. Lowdon, G. Chen, D. Molik, D. C. Soto, *et al.*, **P. Avdeyev**, *et al.* ''The Third International Hackathon for Applying Insights into Large-scale Genomic Composition to Use Cases in a Wide Range of Organisms''. *F1000Research* 11 (2022), 530.
+[Paper](https://f1000research.com/articles/11-530/v1)
+{: .text-justify}
+
+A. Zamyatin\*, **P. Avdeyev\***, J. Liang, A. Sharma, C. Chen, V. Lukyanchikova, N. Alexeev, Z. Tu, M. A. Alekseyev, I. V. Sharakhov. ''Chromosome-level Genome Assemblies of the Malaria Vectors *Anopheles coluzzii* and *Anopheles arabiensis*''.  *GigaScience* 10:3 (2021).
+[DOI](https://doi.org/10.1093/gigascience/giab017)
 [bioRxiv](https://doi.org/10.1101/2020.09.29.318477)
 {: .text-justify}
 
-Z. C. Dagdia, **P. Avdeyev**, M. S. Bayzid. ''Biological computation and computational biology: survey, challenges, and discussion''. *Artificial Intelligence Review* (2021), 1-67.
-[![doi](../assets/images/icons16/doi-icon.png)](https://doi.org/10.1007/s10462-020-09951-1)
+Z. C. Dagdia, **P. Avdeyev**, M. S. Bayzid. ''Biological Computation and Computational Biology: Survey, Challenges, and Discussion''. *Artificial Intelligence Review* 54 (2021), 4169–4235.
+[DOI](https://doi.org/10.1007/s10462-020-09951-1)
 {: .text-justify}
 
 **P. Avdeyev** and M. A. Alekseyev. ''Linearization of Ancestral Genomes with Duplicated Genes''. *Proceedings of the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (**ACM-BCB**)*, 2020, Article 53. 

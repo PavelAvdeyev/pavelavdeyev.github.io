@@ -1,14 +1,9 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Software"
-    url: /software/
-
-  # - title: "JetBrains@GWU"
-  #  url: /jetbrains-GWU/    
-             
+  - title: "Notes"
+    url: /notes/
+  - title: "Projects"
+    url: /work/
   - title: "CV"
     url: /cv/
-    
+  - title: "About"
+    url: /about/

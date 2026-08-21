@@ -5,9 +5,16 @@ permalink: /about/
 compact_title: true
 ---
 
-My name is Pavel. I’m a senior deep learning and machine learning engineer at Illumina, working at the intersection of deep learning and genomics. Before returning to Illumina, I was a postdoctoral fellow at UT Southwestern Medical Center. I completed a Ph.D. in Mathematics at The George Washington University and previously worked with the Computational Biology Institute and the National Human Genome Research Institute.
+<div class="about-intro">
+  <figure class="about-portrait">
+    <img src="{{ '/assets/images/pavel-avdeyev-portrait.png' | relative_url }}" alt="Illustrated portrait of Pavel Avdeyev presenting">
+  </figure>
+  <div class="about-intro-copy">
+    <p>My name is Pavel. I’m a senior deep learning and machine learning engineer at Illumina, working at the intersection of deep learning and genomics. Before returning to Illumina, I was a postdoctoral fellow at UT Southwestern Medical Center. I completed a Ph.D. in Mathematics at The George Washington University and previously worked with the Computational Biology Institute and the National Human Genome Research Institute.</p>
 
-Over the years, my work has included variant calling, DNA synthesis, sequence-to-function models, diffusion models, genome assembly, genome rearrangements, and many other topics across computational biology, machine learning, and computer science.
+    <p>Over the years, my work has included variant calling, DNA synthesis, sequence-to-function models, diffusion models, genome assembly, genome rearrangements, and many other topics across computational biology, machine learning, and computer science.</p>
+  </div>
+</div>
 
 <div class="about-grid">
   <div class="about-card">
